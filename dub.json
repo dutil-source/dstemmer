@@ -1,0 +1,17 @@
+{
+	"name": "dstemmer",
+	"description": "D language wrapper for libstemmer (Snowball).",
+	"copyright": "Copyright © 2016, dutil-source",
+	"authors": ["dutil-source"],
+	"version" : "1.0",
+	"targetName" : "dstemmer",
+	"targetType" : "library",
+	"targetPath" : "lib",
+	"sourcePaths" : 
+	[
+		"./src"
+	],
+	"dependencies": 
+	{
+	}
+}
